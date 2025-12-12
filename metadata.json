@@ -1,0 +1,7 @@
+{
+  "name": "Zen Particles 3D",
+  "description": "A real-time interactive 3D particle system controlled by hand gestures via webcam. Transform shapes between Heart, Flower, Saturn, and more while controlling dispersion with your hands.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
